@@ -27,7 +27,7 @@ on cache hits; LRU held 75% hit rate against LFU's 9.5% under drifting load.
 
 ## Currently
 
-Working through DSA in C.
+Working through DSA in C and planning my next passion project.
 
 ## Elsewhere
 
